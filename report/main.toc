@@ -1,0 +1,9 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Lab Tasks}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Task 1: SYN Flooding Attack}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Task 2: TCP RST Attacks on telnet and ssh Connections}{1}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Task 3: TCP RST Attacks on Video Streaming Applications}{1}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Task 4: TCP Session Hijacking}{2}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Task 5: Creating Reverse Shell using TCP Session Hijacking}{2}{subsection.1.5}%
+\contentsline {section}{\numberline {2}Images}{2}{section.2}%
